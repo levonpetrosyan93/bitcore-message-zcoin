@@ -1,12 +1,12 @@
 {
-  "name": "bitcore-message",
+  "name": "bitcore-message-zcoin",
   "main": "./bitcore-message.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/bitpay/bitcore-message",
+  "homepage": "https://github.com:Technoprenerd/bitcore-message-zcoin",
   "authors": [
     "BitPay"
   ],
-  "description": "Bitcoin Message Verification and Signing for Bitcore",
+  "description": "Bitcoin Message Verification and Signing for Bitcore ZCOIN",
   "moduleType": [
     "globals"
   ],
