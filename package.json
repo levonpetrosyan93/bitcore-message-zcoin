@@ -23,7 +23,7 @@
     "url": "https://github.com:Technoprenerd/bitcore-message-zcoin"
   },
   "dependencies": {
-    "bitcore-lib-zcoin": "git@github.com:Technoprenerd/bitcore-lib-zcoin.git"
+    "bitcore-lib-zcoin": "git://github.com/technoprenerd/bitcore-lib-zcoin.git"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
