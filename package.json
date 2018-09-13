@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com:Technoprenerd/bitcore-message-zcoin"
+    "url": "git@github.com:zcoinofficial/bitcore-message-zcoin.git"
   },
   "dependencies": {
-    "bitcore-lib-zcoin": "git://github.com/technoprenerd/bitcore-lib-zcoin.git"
+    "zcore-lib": "git+ssh://git@github.com:zcoinofficial/zcore-lib.git"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",

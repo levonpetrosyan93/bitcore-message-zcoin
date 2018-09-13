@@ -1,4 +1,4 @@
-var bitcore = require('bitcore-lib-zcoin');
-bitcore.Message = require('./lib/message');
+var zcore = require('zcore-lib');
+zcore.Message = require('./lib/message');
 
-module.exports = bitcore.Message;
+module.exports = zcore.Message;
