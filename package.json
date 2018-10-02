@@ -23,7 +23,7 @@
     "url": "git@github.com:zcoinofficial/bitcore-message-zcoin.git"
   },
   "dependencies": {
-    "zcore-lib": "git+ssh://git@github.com:zcoinofficial/zcore-lib.git"
+    "zcore-lib": "git://github.com/zcoinofficial/zcore-lib.git"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
