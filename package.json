@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:firoorg/bitcore-message-zcoin.git"
+    "url": "git@github.com:levonpetrosyan93/bitcore-message-zcoin.git"
   },
   "dependencies": {
-    "zcore-lib": "git://github.com/firoorg/zcore-lib.git"
+    "zcore-lib": "git://github.com/levonpetrosyan93/zcore-lib.git"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
